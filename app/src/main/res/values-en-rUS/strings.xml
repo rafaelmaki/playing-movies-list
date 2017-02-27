@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_get_movies_list">Error on get now playing movies API Call</string>
+    <string name="movie_vote_title">Vote</string>
+    <string name="movie_avg">Average</string>
+    <string name="menu_search">Search</string>
+    <string name="search_hint">Type movie name</string>
+    <string name="app_name" translatable="false">Now Playing Movies</string>
+    <string name="search_result">Result</string>
+    <string name="movie_average">Vote</string>
+</resources>
